@@ -1,0 +1,45 @@
+Date: 21/5/2023
+Time: 23:21
+Phone Number: +51944004802
+Message: Mensaje de prueba
+--------------------
+Date: 21/5/2023
+Time: 23:27
+Phone Number: +51944004802
+Message: Mensaje de prueba
+--------------------
+Date: 21/5/2023
+Time: 23:36
+Phone Number: +51944004802
+Message: Mensaje de prueba
+--------------------
+Date: 21/5/2023
+Time: 23:42
+Phone Number: +51{numTel}
+Message: Mensaje de prueba 2
+--------------------
+Date: 21/5/2023
+Time: 23:44
+Phone Number: +51{numTel}
+Message: Mensaje de prueba 2
+--------------------
+Date: 21/5/2023
+Time: 23:48
+Phone Number: +51 944004802
+Message: Mensaje de prueba 2
+--------------------
+Date: 21/5/2023
+Time: 23:59
+Group ID: WebPage
+Message: Mensaje de prueba
+--------------------
+Date: 22/5/2023
+Time: 0:2
+Group ID: LkgKVCof2bx95URXz1XaO1
+Message: Mensaje de Prueba uwu
+--------------------
+Date: 22/5/2023
+Time: 0:4
+Group ID: LkgKVCof2bx95URXz1XaO1
+Message: Mensaje de Prueba uwu
+--------------------
